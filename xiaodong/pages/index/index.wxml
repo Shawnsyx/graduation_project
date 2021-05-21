@@ -1,0 +1,25 @@
+<!--index.wxml class="container"-->
+<view  class='ServiceCenter' name='viewport'>
+
+  <!-- <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+  
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view> bindtap="toChat"-->
+  
+  <view class="txt">
+    <text style='width: 4vw; height: 5vw;'>  </text>
+    <view ><button class="chat" style='font-size:15px;border-radius: 50rpx;width: 40vw;box-shadow:0px 2px 4px 0px rgba(115,153,214,1);' open-type="getUserInfo" bindgetuserinfo="getUserInfo">进入对话</button></view>
+  </view>
+
+  
+  <view class="imagesize">
+    <image src='./images/xiaotu.png' class="in-image" bindtap="shakeIcon"></image>
+  </view>
+</view>

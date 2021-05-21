@@ -1,0 +1,11 @@
+{
+	"http://xlore.org/olympic/property/50": "项目",
+	"http://xlore.org/olympic/property/5": "成绩",
+	"http://xlore.org/olympic/property/51": "吉祥物",
+	"http://xlore.org/olympic/property/52": "比赛场馆",
+	"http://xlore.org/olympic/property/1": "项目",
+	"http://xlore.org/olympic/property/17": "参赛国家",
+	"http://xlore.org/olympic/property/4": "第三名",
+	"http://xlore.org/olympic/property/3": "第二名",
+	"http://xlore.org/olympic/property/2": "第一名"
+}

@@ -1,0 +1,22 @@
+{
+	"http://xlore.org/concept10": "场馆",
+	"http://xlore.org/concept2": "参赛人员",
+	"http://xlore.org/concept3": "冬季奥林匹克运动会",
+	"http://xlore.org/sport15": "速度滑冰",
+	"http://xlore.org/sport3": "雪车",
+	"http://xlore.org/sport1": "高山滑雪",
+	"http://xlore.org/sport4": "越野滑雪",
+	"http://xlore.org/sport9": "雪橇",
+	"http://xlore.org/sport8": "冰球",
+	"http://xlore.org/sport10": "北欧两项",
+	"http://xlore.org/sport2": "冬季两项",
+	"http://xlore.org/sport6": "花样滑冰",
+	"http://xlore.org/sport7": "自由式滑雪",
+	"http://xlore.org/sport12": "钢架雪车",
+	"http://xlore.org/sport14": "单板滑雪",
+	"http://xlore.org/sport13": "跳台滑雪",
+	"http://xlore.org/sport11": "短道速滑",
+	"http://xlore.org/sport5": "冰壶",
+	"http://xlore.org/sport16": "军事巡逻",
+	"http://xlore.org/concept1": "比赛项目"
+}
